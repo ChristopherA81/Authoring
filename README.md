@@ -6,10 +6,15 @@
 
 [x] Internal Link
 
-[x] Images ![Images](./images)
+[x] Images ![Images](images)
 
-[x] Emojis
+[x] Emojis 🍕
 
 [x] Tables
+
+| Names | Classes |
+
+|:-----:|  |:----:|
+
 
 
