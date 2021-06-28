@@ -7,17 +7,17 @@
 ## [Emojis](#Emojis)
 ## [Tables](#Tables)
 
-[x] [External Link](https://help.github.com/en)
+- [x] [External Link](https://help.github.com/en)
 
-[x] Internal Link
+- [x] Internal Link
 
-[x] Images 
+- [x] Images 
 
-[![Camera](camera.jpg)](./folder)
+- [x] [![Camera](camera.jpg)](./folder)
 
-[x] Emojis 🍕
+- [x] Emojis 🍕 🥥 🍝 🍍 🍌 🍣 🧀 🥖 🌮 🍓
 
-[x] Tables
+- [x] Tables
 
 | Names | Classes |
 | :---: | :---|
