@@ -6,7 +6,7 @@
 
 [x] Internal Link
 
-[x] Images ![Images](images)
+[x] Images ![Camera](folder/camera.jpg) [Folder](./folder)
 
 [x] Emojis 🍕
 
