@@ -13,7 +13,7 @@
 
 - [x] Images 
 
-- [x] [![Camera](camera.jpg)](./folder)
+- [x] [folder](./images) ![camera](camera.jpg)
 
 - [x] Emojis 🍕 🥥 🍝 🍍 🍌 🍣 🧀 🥖 🌮 🍓
 
